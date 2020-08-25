@@ -10,6 +10,9 @@ This project will download nearly 400MB of libraries needed for compilation (C# 
 Project templates for Visual Studio can be ordered [here](http://silverfox.systems/OrderVSIX.aspx).
 
 Prices: 
+
 Community edition - 1€
+
 Pro edition - 5€
+
 Enterprise edition - 25€
